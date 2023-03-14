@@ -1,4 +1,4 @@
-# COMANDOS BÁSICOS DE PRACTICA GIT PARA LA TERMINAL DE GIT BASH
+# COMANDOS BÁSICOS DE PRÁCTICA GIT PARA LA TERMINAL DE GIT BASH
 
 >`cd` : nos permite cambiarnos de carpeta, **p.ej.** cd NuevaCarpeta.
 
