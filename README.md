@@ -44,3 +44,16 @@
 
 >`history` : ver los últimos comandos que ejecutamos y un número especial con el que podemos volver a repetir el comando.
 
+---
+# Los tres estados de GIT
+
+> Git
+tiene tres estados principales en los que se pueden encontrar tus archivos:
+>1. **Confirmado (committed)**, significa que los
+datos están almacenados de manera segura en tu base de datos local.
+>2. **Modificado (modified)**, significa que has modificado el archivo pero todavía no lo has confirmado a tu base de
+datos.
+>3. **Preparado (staged)**, significa que has marcado un archivo modificado en su versión actual
+para que vaya en tu próxima confirmación.
+
+![Los 3 estados de git](./Estados_de_git.png)
