@@ -56,4 +56,4 @@ datos.
 >3. **Preparado (staged)**, significa que has marcado un archivo modificado en su versión actual
 para que vaya en tu próxima confirmación.
 
-![Los 3 estados de git](./Estados_de_git.png)
+![Los 3 estados de git](./Estados de git.png)
